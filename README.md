@@ -1,7 +1,18 @@
 # project-insurance
 
 ## Background Project 
-Asuransi kesehatan adalah salah satu hal yang patut diperhatikan karena bersangkutan dengan kebutuhan perencanaan masa depan. Pengguna asuransi kesehatan diwajibkan untuk membayar besaran uang secara rutin (premi) kepada pihak perusahaan asuransi. Premi tersebut diolah oleh perusahaan asuransi untuk membayarkan tagihan kesehatan pengguna yang tertanggung. Penentuan nilai premi menjadi tantangan tersendiri bagi pihak asuransi mengingat ada banyak faktor yang dapat mempengaruhi dan 
+Asuransi kesehatan adalah salah satu hal yang patut diperhatikan karena bersangkutan dengan
+kebutuhan perencanaan masa depan. Pengguna asuransi kesehatan diwajibkan untuk
+membayar besaran uang secara rutin (premi) kepada pihak perusahaan asuransi. Premi
+tersebut diolah oleh perusahaan asuransi untuk membayarkan tagihan kesehatan pengguna
+yang tertanggung. Penentuan nilai premi menjadi tantangan tersendiri bagi pihak asuransi
+mengingat ada banyak faktor yang dapat mempengaruhi & meningkatkan profil resiko
+pengguna.
+Melalui project ini, Anda akan diminta untuk membantu menganalisa variable-variabel yang
+memiliki hubungan dengan tagihan kesehatan yang diterima oleh setiap pengguna. Anda akan
+diberikan data yang berisi data personal pengguna seperti umur, gender, tempat tinggal
+pengguna, banyak anak tertanggung asuransi, nilai bmi, keadaan merokok atau tidaknya
+pengguna.
 
 ## Petunjuk Analisa
 Dengan menggunakan dasar ilmu probability, anda diharapkan dapat melakukan analisa secara scientifics untuk mencari variabel-variabel yang berhubungan dengan tagihan kesehatan.
